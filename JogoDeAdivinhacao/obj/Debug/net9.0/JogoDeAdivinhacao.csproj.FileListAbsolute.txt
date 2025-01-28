@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\bin\Debug\net9.0\JogoDeAdivinhacao.exe
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\bin\Debug\net9.0\JogoDeAdivinhacao.deps.json
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\bin\Debug\net9.0\JogoDeAdivinhacao.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\bin\Debug\net9.0\JogoDeAdivinhacao.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\bin\Debug\net9.0\JogoDeAdivinhacao.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\obj\Debug\net9.0\JogoDeAdivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\obj\Debug\net9.0\JogoDeAdivinhacao.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\obj\Debug\net9.0\JogoDeAdivinhacao.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\obj\Debug\net9.0\JogoDeAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\obj\Debug\net9.0\JogoDeAdivinhacao.sourcelink.json
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\obj\Debug\net9.0\JogoDeAdivinhacao.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\obj\Debug\net9.0\refint\JogoDeAdivinhacao.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\obj\Debug\net9.0\JogoDeAdivinhacao.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\obj\Debug\net9.0\JogoDeAdivinhacao.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios2\JogoDeAdivinhacao\obj\Debug\net9.0\ref\JogoDeAdivinhacao.dll
