@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\bin\Debug\net9.0\SubstituicaoDeCaractere.exe
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\bin\Debug\net9.0\SubstituicaoDeCaractere.deps.json
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\bin\Debug\net9.0\SubstituicaoDeCaractere.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\bin\Debug\net9.0\SubstituicaoDeCaractere.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\bin\Debug\net9.0\SubstituicaoDeCaractere.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\obj\Debug\net9.0\SubstituicaoDeCaractere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\obj\Debug\net9.0\SubstituicaoDeCaractere.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\obj\Debug\net9.0\SubstituicaoDeCaractere.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\obj\Debug\net9.0\SubstituicaoDeCaractere.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\obj\Debug\net9.0\SubstituicaoDeCaractere.sourcelink.json
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\obj\Debug\net9.0\SubstituicaoDeCaractere.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\obj\Debug\net9.0\refint\SubstituicaoDeCaractere.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\obj\Debug\net9.0\SubstituicaoDeCaractere.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\obj\Debug\net9.0\SubstituicaoDeCaractere.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios2\SubstituicaoDeCaractere\obj\Debug\net9.0\ref\SubstituicaoDeCaractere.dll
