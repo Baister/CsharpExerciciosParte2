@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\bin\Debug\net9.0\CalculoDeMediaPonderada.exe
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\bin\Debug\net9.0\CalculoDeMediaPonderada.deps.json
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\bin\Debug\net9.0\CalculoDeMediaPonderada.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\bin\Debug\net9.0\CalculoDeMediaPonderada.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\bin\Debug\net9.0\CalculoDeMediaPonderada.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\obj\Debug\net9.0\CalculoDeMediaPonderada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\obj\Debug\net9.0\CalculoDeMediaPonderada.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\obj\Debug\net9.0\CalculoDeMediaPonderada.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\obj\Debug\net9.0\CalculoDeMediaPonderada.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\obj\Debug\net9.0\CalculoDeMediaPonderada.sourcelink.json
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\obj\Debug\net9.0\CalculoDeMediaPonderada.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\obj\Debug\net9.0\refint\CalculoDeMediaPonderada.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\obj\Debug\net9.0\CalculoDeMediaPonderada.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\obj\Debug\net9.0\CalculoDeMediaPonderada.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios2\CalculoDeMediaPonderada\obj\Debug\net9.0\ref\CalculoDeMediaPonderada.dll
