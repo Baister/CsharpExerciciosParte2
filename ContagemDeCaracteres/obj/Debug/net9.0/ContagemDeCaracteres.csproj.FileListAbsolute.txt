@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\bin\Debug\net9.0\ContagemDeCaracteres.exe
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\bin\Debug\net9.0\ContagemDeCaracteres.deps.json
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\bin\Debug\net9.0\ContagemDeCaracteres.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\bin\Debug\net9.0\ContagemDeCaracteres.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\bin\Debug\net9.0\ContagemDeCaracteres.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\obj\Debug\net9.0\ContagemDeCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\obj\Debug\net9.0\ContagemDeCaracteres.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\obj\Debug\net9.0\ContagemDeCaracteres.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\obj\Debug\net9.0\ContagemDeCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\obj\Debug\net9.0\ContagemDeCaracteres.sourcelink.json
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\obj\Debug\net9.0\ContagemDeCaracteres.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\obj\Debug\net9.0\refint\ContagemDeCaracteres.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\obj\Debug\net9.0\ContagemDeCaracteres.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\obj\Debug\net9.0\ContagemDeCaracteres.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios2\ContagemDeCaracteres\obj\Debug\net9.0\ref\ContagemDeCaracteres.dll
