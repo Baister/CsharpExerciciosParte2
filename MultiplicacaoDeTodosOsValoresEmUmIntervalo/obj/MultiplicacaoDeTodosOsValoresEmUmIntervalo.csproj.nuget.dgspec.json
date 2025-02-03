@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Gustavo\\Desktop\\CSharpExercicios2\\MultiplicacaoDeTodosOsValoresEmUmIntervalo\\MultiplicacaoDeTodosOsValoresEmUmIntervalo.csproj": {}
+    "C:\\Users\\Gustavo\\Desktop\\CSharpExercicios2\\MultiplicacaoDeTodosOsValoresEmUmIntervalo\\MultiplicacaoDeTodosOsValoresEmUmIntervalo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Gustavo\\Desktop\\CSharpExercicios2\\MultiplicacaoDeTodosOsValoresEmUmIntervalo\\MultiplicacaoDeTodosOsValoresEmUmIntervalo.csproj": {
+    "C:\\Users\\Gustavo\\Desktop\\CSharpExercicios2\\MultiplicacaoDeTodosOsValoresEmUmIntervalo\\MultiplicacaoDeTodosOsValoresEmUmIntervalo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Gustavo\\Desktop\\CSharpExercicios2\\MultiplicacaoDeTodosOsValoresEmUmIntervalo\\MultiplicacaoDeTodosOsValoresEmUmIntervalo.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\CSharpExercicios2\\MultiplicacaoDeTodosOsValoresEmUmIntervalo\\MultiplicacaoDeTodosOsValoresEmUmIntervalo.csproj",
         "projectName": "MultiplicacaoDeTodosOsValoresEmUmIntervalo",
-        "projectPath": "c:\\Users\\Gustavo\\Desktop\\CSharpExercicios2\\MultiplicacaoDeTodosOsValoresEmUmIntervalo\\MultiplicacaoDeTodosOsValoresEmUmIntervalo.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Desktop\\CSharpExercicios2\\MultiplicacaoDeTodosOsValoresEmUmIntervalo\\MultiplicacaoDeTodosOsValoresEmUmIntervalo.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Gustavo\\Desktop\\CSharpExercicios2\\MultiplicacaoDeTodosOsValoresEmUmIntervalo\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Desktop\\CSharpExercicios2\\MultiplicacaoDeTodosOsValoresEmUmIntervalo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

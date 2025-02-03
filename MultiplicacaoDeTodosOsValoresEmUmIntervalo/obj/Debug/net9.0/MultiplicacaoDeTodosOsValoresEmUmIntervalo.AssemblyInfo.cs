@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiplicacaoDeTodosOsValoresEmUmIntervalo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40ca2fde2a5d2b7540a7365b3939b26c56bd534b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9358c4fa5dc66a1817c21a748f96c556b4572721")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiplicacaoDeTodosOsValoresEmUmIntervalo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiplicacaoDeTodosOsValoresEmUmIntervalo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

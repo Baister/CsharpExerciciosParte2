@@ -15,21 +15,15 @@ var segundoValor = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("\nAgora vou exibir o produto de todos os números inteiros nesse intervalo...\n");
 
-//Essa lista vai adicionar os valores que estão dentro do intervalo.
-int[] listaDosNumerosIntervalo = new int[5];
+// Garantindo que o primeiro valor seja sempre o menor
+int inicio = Math.Min(primeiroValor, segundoValor);
+int fim = Math.Max(primeiroValor, segundoValor);
 
-while (segundoValor > primeiroValor)
+long produto = 1; // Variável para armazenar o produto
+
+for (int i = inicio; i <= fim; i++)
 {
-    Console.WriteLine(segundoValor);
-
-    segundoValor--; //Para controlar o Loop;
-    for (int i = 0; i < segundoValor; i++)
-    {
-        listaDosNumerosIntervalo[i] = segundoValor;
-    }
-
+    produto *= i;
 }
-foreach (int num in listaDosNumerosIntervalo)
-{
-    Console.WriteLine(num);
-}
+
+Console.WriteLine($"O produto de todos os números entre {inicio} e {fim} é: {produto}");
