@@ -34,8 +34,6 @@ namespace Calculdora2
                 case 4: Divisao(); break;
 
                 case 0: Sair(); break;
-
-                default: System.Environment.Exit(); break;
             }
         }
 
