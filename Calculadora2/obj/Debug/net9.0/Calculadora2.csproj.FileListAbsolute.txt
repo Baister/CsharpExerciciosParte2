@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\bin\Debug\net9.0\Calculadora2.exe
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\bin\Debug\net9.0\Calculadora2.deps.json
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\bin\Debug\net9.0\Calculadora2.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\bin\Debug\net9.0\Calculadora2.dll
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\bin\Debug\net9.0\Calculadora2.pdb
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\obj\Debug\net9.0\Calculadora2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\obj\Debug\net9.0\Calculadora2.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\obj\Debug\net9.0\Calculadora2.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\obj\Debug\net9.0\Calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\obj\Debug\net9.0\Calculadora2.sourcelink.json
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\obj\Debug\net9.0\Calculadora2.dll
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\obj\Debug\net9.0\refint\Calculadora2.dll
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\obj\Debug\net9.0\Calculadora2.pdb
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\obj\Debug\net9.0\Calculadora2.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\Calculadora2\obj\Debug\net9.0\ref\Calculadora2.dll
