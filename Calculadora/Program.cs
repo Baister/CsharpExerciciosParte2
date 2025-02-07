@@ -7,7 +7,7 @@ while (continuar)
     Console.WriteLine("----------------\n");
 
     Console.WriteLine("Escolha a operação que deseja realizar:");
-    Console.WriteLine("[1] Soma\n[2]Subtração\n[3]Multiplicação\n[4]Divisão");
+    Console.WriteLine("[1]Soma\n[2]Subtração\n[3]Multiplicação\n[4]Divisão");
     Console.WriteLine("");
     Console.Write("Digite: ");
 
@@ -42,8 +42,6 @@ while (continuar)
     {
         Console.WriteLine("Por favor, inserir um valor válido!");
     }
-
-
 }
 
 

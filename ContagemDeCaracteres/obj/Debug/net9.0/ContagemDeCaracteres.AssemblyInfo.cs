@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContagemDeCaracteres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d91a8165a72a26d61057ed74405e4b0637b8f22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40ca2fde2a5d2b7540a7365b3939b26c56bd534b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContagemDeCaracteres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContagemDeCaracteres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
