@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\bin\Debug\net9.0\ConversorDeBaseNumerica.exe
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\bin\Debug\net9.0\ConversorDeBaseNumerica.deps.json
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\bin\Debug\net9.0\ConversorDeBaseNumerica.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\bin\Debug\net9.0\ConversorDeBaseNumerica.dll
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\bin\Debug\net9.0\ConversorDeBaseNumerica.pdb
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\obj\Debug\net9.0\ConversorDeBaseNumerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\obj\Debug\net9.0\ConversorDeBaseNumerica.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\obj\Debug\net9.0\ConversorDeBaseNumerica.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\obj\Debug\net9.0\ConversorDeBaseNumerica.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\obj\Debug\net9.0\ConversorDeBaseNumerica.sourcelink.json
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\obj\Debug\net9.0\ConversorDeBaseNumerica.dll
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\obj\Debug\net9.0\refint\ConversorDeBaseNumerica.dll
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\obj\Debug\net9.0\ConversorDeBaseNumerica.pdb
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\obj\Debug\net9.0\ConversorDeBaseNumerica.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Coisas Dev\CSharpExercicios2\ConversorDeBaseNumerica\obj\Debug\net9.0\ref\ConversorDeBaseNumerica.dll
